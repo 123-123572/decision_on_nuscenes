@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+matplotlib
+pillow
+pyquaternion
+nuscenes-devkit
+torch
+torchvision

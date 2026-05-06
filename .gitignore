@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.venv/
+venv/
+env/
+conda_envs/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+wandb/
+runs/
+
+# Models / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+
+# Data / nuScenes
+data/
+datasets/
+nuscenes/
+v1.0-trainval/
+samples/
+sweeps/
+maps/
+
+# Outputs / cache / shards
+outputs/
+outputs*/
+shards*/
+cache*/
+*_cache/
+
+# Large serialized files
+*.npz
+*.npy
+*.pkl
+*.pickle
+
+# Visualization
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.gif
+
+# Temp
+tmp/
+temp/
+
+# Local git backup
+.git_backup_*
+.git_backup_messy_*
