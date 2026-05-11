@@ -63,3 +63,29 @@ temp/
 # Local git backup
 .git_backup_*
 .git_backup_messy_*
+
+# v18.5 / training outputs
+outputs*/
+outputs_*/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.pkl
+*.pickle
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# logs
+*.log
+runs/
+wandb/
+
+# logs
+*.log
+runs/
+wandb/
